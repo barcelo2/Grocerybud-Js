@@ -8,7 +8,7 @@ Create a shopping list where we can add, remove or modify items or clear the lis
 - random number generator to get an ID
 - createElement, createAttribute, setAttributeNode, appendChild
 - classList.add and classList.remove
--localStorage.getItem, localStorage.setItem
+- localStorage.getItem, localStorage.setItem
 
 
 ![Grocery Bud](https://github.com/barcelo2/Grocerybud-Js/blob/main/GroceryBud/Screenshot%202022-05-13%20at%2014.52.59.png)
